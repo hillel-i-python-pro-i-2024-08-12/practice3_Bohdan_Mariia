@@ -1,0 +1,1 @@
+pyspellchecker==23.2.1
